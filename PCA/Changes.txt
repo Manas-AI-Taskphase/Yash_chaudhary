@@ -1,1 +1,1 @@
-
+After deaing with the outliers i tried to scale all the data on the same scale which i am having troubling to do 
