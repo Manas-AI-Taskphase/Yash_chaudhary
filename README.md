@@ -1,2 +1,19 @@
 # Yash_chaudhary
-hello yash chaudhary here from cce BRANCH 
+Hello my name is Yash chaudhary.
+CCE branch.
+Making my way through taskphase is my main goal.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+That's it.......
